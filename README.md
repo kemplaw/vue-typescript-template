@@ -4,7 +4,7 @@ This is the README for your extension "vue-typescript-template". After writing u
 
 ## Description
 
-This code snippet exists primarily to facilitate development stacks such as typescript + vue
+This code snippet exists primarily to facilitate development stacks such as typescript + vue.
 
 ## Snippets
 
