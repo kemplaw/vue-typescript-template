@@ -3,7 +3,7 @@
   "displayName": "vue ts template",
   "description": "To help you better use typescript in vue",
   "icon": "images/logo.png",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "kemplaw",
   "engines": {
     "vscode": "^1.14.0"
