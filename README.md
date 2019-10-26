@@ -1,4 +1,4 @@
-# vue-typescript-template README
+# vue-typescript-template
 
 ## Description
 
