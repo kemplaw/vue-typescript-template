@@ -41,7 +41,7 @@ Support for generating TSX snippets in typescript files
 
 Support the introduction of vuex-class code fragments in vue single files and typescript and TSX
 
-### 0.0.2
+### 0.0.4
 
 Fixed incorrect cursor position in TSX snippet
 
