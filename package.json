@@ -41,7 +41,7 @@
         "path": "./snippets/vue-script-vuex.json"
       },
       {
-        "language": "typescript",
+        "language": "typescriptreact",
         "path": "./snippets/vue-tsx.json"
       }
     ]

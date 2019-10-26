@@ -11,7 +11,7 @@
       "})",
       "export default class $1Component extends Vue {",
       "\trender(): VNode {",
-      "\t\treturn <div class=\"\">",
+      "\t\treturn <div class=''>",
       "\t\t\ttsx template",
       "\t\t</div>",
       "\t}",

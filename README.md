@@ -47,3 +47,7 @@ Fixed incorrect cursor position in TSX snippet
 
 Fixed a problem with no VNode introduced in TSX
 
+### 0.0.6
+
+Fixed incorrect language configuration in pure TSX
+
