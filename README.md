@@ -1,7 +1,5 @@
 # vue-typescript-template README
 
-This is the README for your extension "vue-typescript-template". After writing up a brief description, we recommend including the following sections.
-
 ## Description
 
 This code snippet exists primarily to facilitate development stacks such as typescript + vue.
