@@ -1,0 +1,28 @@
+{
+  "Vue Single File Component": {
+    "prefix": "vtsbase",
+    "body": [
+      "<template>",
+      "\t<div class=\"\">",
+      "",
+      "\t</div>",
+      "</template>",
+      "",
+      "<script lang=\"ts\">",
+      "import { Component, Vue } from 'vue-property-decorator'",
+      "",
+      "@Component({",
+      "\tname: ${1:ComponentName}",
+      "})",
+      "export default class HomeComponent extends Vue {",
+      "\t",
+      "}",
+      "</script>",
+      "",
+      "<style lang=\"scss\" scoped>",
+      "",
+      "</style>"
+    ],
+    "description": "Base for Vue TS File with SCSS"
+  }
+}

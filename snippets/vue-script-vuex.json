@@ -1,0 +1,32 @@
+{
+  "Import vuex-class": {
+    "prefix": "imvxc",
+    "body": ["import { State } from 'vuex-class'"],
+    "description": "import vuex-class"
+  },
+  "Vuex-class State": {
+    "prefix": "vxcstate",
+    "body": ["@State('${1:stateName}') ${2:stateName}"],
+    "description": "vuex-class state config"
+  },
+  "Vuex-class Getter": {
+    "prefix": "vxcgetter",
+    "body": ["@Getter('${1:getterName}') ${2:getterName}"],
+    "description": "vuex-class getter config"
+  },
+  "Vuex-class Action": {
+    "prefix": "vxcaction",
+    "body": ["@Action('${1:actionName}') ${2:actionName}"],
+    "description": "vuex-class action config"
+  },
+  "Vuex-class Mutation": {
+    "prefix": "vxcmutation",
+    "body": ["@Mutation('${1:mutationName}') ${2:mutationName}"],
+    "description": "vuex-class mutation config"
+  },
+  "Vuex-class Namespace": {
+    "prefix": "vxcnamespace",
+    "body": ["const ${1:someModule} = namespace('$2')"],
+    "description": "vuex-class namespace config"
+  }
+}

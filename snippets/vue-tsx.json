@@ -1,0 +1,20 @@
+{
+  "Vue TSX File Component": {
+    "prefix": "vtsx",
+    "body": [
+      "import { Component, Vue } from 'vue-property-decorator'",
+      "",
+      "@Component({",
+      "\tname: '$1'",
+      "})",
+      "export default class HomeComponent extends Vue {",
+      "\trender (): VNode$2 {",
+      "\t\treturn <div class=\"$3\">",
+      "\t\t\ttsx template",
+      "\t\t</div>",
+      "\t}",
+      "}"
+    ],
+    "description": "Base for Vue TSX File Without Template"
+  }
+}

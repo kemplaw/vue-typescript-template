@@ -1,0 +1,26 @@
+{
+  "Vue TSX File Component": {
+    "prefix": "vtsxbase",
+    "body": [
+      "<script lang=\"tsx\">",
+      "import { Component, Vue } from 'vue-property-decorator'",
+      "",
+      "@Component({",
+      "\tname: '$1'",
+      "})",
+      "export default class HomeComponent extends Vue {",
+      "\trender (): VNode$2 {",
+      "\t\treturn <div class=\"$3\">",
+      "\t\t\ttsx template",
+      "\t\t</div>",
+      "\t}",
+      "}",
+      "</script>",
+      "",
+      "<style lang=\"scss\" scoped>",
+      "",
+      "</style>"
+    ],
+    "description": "Base for Vue TSX File with SCSS"
+  }
+}

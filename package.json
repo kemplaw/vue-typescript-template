@@ -1,0 +1,52 @@
+{
+  "name": "vue-typescript-template",
+  "displayName": "vue ts template",
+  "description": "To help you better use typescript in vue",
+  "icon": "images/logo.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "keywords": [
+    "Vue",
+    "Vue 2",
+    "Vue Snippets",
+    "Vue typescript",
+    "Vue ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "vue",
+        "path": "./snippets/vue.json"
+      },
+      {
+        "language": "vue",
+        "path": "./snippets/vue-tsx-template.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/vue-script-vuex.json"
+      },
+      {
+        "language": "tsx",
+        "path": "./snippets/vue-script-vuex.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/vue-tsx.json"
+      },
+      {
+        "language": "tsx",
+        "path": "./snippets/vue-tsx.json"
+      }
+    ]
+  }
+}
