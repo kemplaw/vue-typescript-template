@@ -1,6 +1,6 @@
 {
   "name": "vue-typescript-template",
-  "displayName": "vue ts template",
+  "displayName": "Vue TypeScript VSCode Snippets",
   "description": "To help you better use typescript in vue",
   "icon": "images/logo.png",
   "version": "0.0.4",
