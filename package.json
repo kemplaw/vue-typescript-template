@@ -37,15 +37,11 @@
         "path": "./snippets/vue-script-vuex.json"
       },
       {
-        "language": "tsx",
+        "language": "vue",
         "path": "./snippets/vue-script-vuex.json"
       },
       {
         "language": "typescript",
-        "path": "./snippets/vue-tsx.json"
-      },
-      {
-        "language": "tsx",
         "path": "./snippets/vue-tsx.json"
       }
     ]

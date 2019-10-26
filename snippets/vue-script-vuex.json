@@ -6,22 +6,22 @@
   },
   "Vuex-class State": {
     "prefix": "vxcstate",
-    "body": ["@State('${1:stateName}') ${2:stateName}"],
+    "body": ["@State$0('${1:stateName}') ${2:stateName}"],
     "description": "vuex-class state config"
   },
   "Vuex-class Getter": {
     "prefix": "vxcgetter",
-    "body": ["@Getter('${1:getterName}') ${2:getterName}"],
+    "body": ["@Getter$0('${1:getterName}') ${2:getterName}"],
     "description": "vuex-class getter config"
   },
   "Vuex-class Action": {
     "prefix": "vxcaction",
-    "body": ["@Action('${1:actionName}') ${2:actionName}"],
+    "body": ["@Action$0('${1:actionName}') ${2:actionName}"],
     "description": "vuex-class action config"
   },
   "Vuex-class Mutation": {
     "prefix": "vxcmutation",
-    "body": ["@Mutation('${1:mutationName}') ${2:mutationName}"],
+    "body": ["@Mutation$0('${1:mutationName}') ${2:mutationName}"],
     "description": "vuex-class mutation config"
   },
   "Vuex-class Namespace": {

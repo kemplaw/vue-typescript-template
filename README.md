@@ -40,3 +40,10 @@ Support for generating typescript templates from vue single files
 Support for generating TSX snippets in typescript files
 
 Support the introduction of vuex-class code fragments in vue single files and typescript and TSX
+
+### 0.0.1
+
+Fixed incorrect cursor position in TSX snippet
+
+Fixed a problem with no VNode introduced in TSX
+
